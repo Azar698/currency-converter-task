@@ -1,0 +1,21 @@
+{
+  "name": "currency-converter",
+  "version": "1.0.0",
+  "description": "A Currency converter web app",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "convert"
+  ],
+  "author": "azar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "type": "module"
+}
